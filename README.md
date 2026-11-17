@@ -7,9 +7,22 @@ This repository contains teaching activities and instructional resources accompa
 
 The repository includes resources developed or adapted for an interdisciplinary graduate-level AI4Science course at the University of Michigan.
 
-- **Jigsaw Activity:** Instructions for collaborative learning activities in which students explore research papers and share their understanding with peers.
-- **Case Study:** Adapted Requirements Table and Statement of Work resources to guide students in formulating interdisciplinary scientific problems.
-- **Presentation Guide:** Guidance for student presentations.
+### 1. Jigsaw Activity
+
+Instructions for collaborative learning activities in which
+students explore research papers and share their understanding
+with peers.
+
+### 2. Case Study (Problem-Solving) Activity
+
+Resources for engaging students in interdisciplinary scientific
+problem formulation and collaborative problem-solving.
+
+- **Case Study Guide:** Overview, session structure, and instructions.
+- **Case Study Slides:** Slides used to facilitate classroom sessions.
+- **Requirements Table:** Template for identifying project requirements.
+- **Statement of Work:** Template for defining project scope and deliverables.
+- **Presentation Template:** Template for students to present their proposed solutions.
 
 ## Paper
 
