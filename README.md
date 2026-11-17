@@ -7,36 +7,37 @@ This repository contains teaching activities and instructional resources accompa
 
 The repository includes resources developed or adapted for an interdisciplinary graduate-level AI4Science course at the University of Michigan.
 
-- **[Jigsaw Activity Setup Slides](jigsaw/jigsaw-activity-setup.pdf):**
-  Slides used to introduce the jigsaw cooperative learning approach,
-  including expert roles, discussion group organization, and
-  expectations for research-paper discussions.
+### Jigsaw Activity
 
+- **Jigsaw Activity Setup Slides:** Slides used to introduce the
+  jigsaw cooperative learning approach, including expert roles,
+  discussion group organization, and expectations for
+  research-paper discussions.
+  [View PDF](jigsaw/jigsaw-activity-setup.pdf)
 
 ### Case Study (Problem-Solving) Activity
 
 Resources for engaging students in interdisciplinary scientific
 problem formulation and collaborative problem-solving.
 
-- **[Case Study Guide](case-study/case-study-dynamics.pdf):**
-  Overview of the activity, session structure, and instructions.
+- **Case Study Guide:** Overview of the activity, session structure,
+  and instructions.
+  [View PDF](case-study/case-study-dynamics.pdf)
 
-- **Case Study Slides:**
-  Slides used to facilitate the classroom sessions.
+- **Case Study Slides:** Slides used to facilitate the classroom sessions.
   [View PDF](case-study/case-study-slides.pdf) |
   [Download PPTX](case-study/case-study-slides.pptx)
 
-- **[Requirements Table](case-study/requirements-table.xlsx):**
-  Template for identifying project requirements.
+- **Requirements Table:** Template for identifying project requirements.
+  [Download XLSX](case-study/requirements-table.xlsx)
 
-- **[Statement of Work](case-study/statement-of-work-signoff.docx):**
-  Template for defining project scope and deliverables.
+- **Statement of Work:** Template for defining project scope and deliverables.
+  [Download DOCX](case-study/statement-of-work-signoff.docx)
 
-- **Presentation Template:**
-  Template for students to present their proposed solutions.
+- **Presentation Template:** Template for students to present their
+  proposed solutions.
   [View PDF](case-study/presentation-template.pdf) |
   [Download PPTX](case-study/presentation-template.pptx)
-
 
 ## Paper
 
