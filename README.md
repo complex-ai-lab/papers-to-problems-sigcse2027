@@ -7,22 +7,36 @@ This repository contains teaching activities and instructional resources accompa
 
 The repository includes resources developed or adapted for an interdisciplinary graduate-level AI4Science course at the University of Michigan.
 
-### 1. Jigsaw Activity
+- **[Jigsaw Activity Setup Slides](jigsaw/jigsaw-activity-setup.pdf):**
+  Slides used to introduce the jigsaw cooperative learning approach,
+  including expert roles, discussion group organization, and
+  expectations for research-paper discussions.
 
-Instructions for collaborative learning activities in which
-students explore research papers and share their understanding
-with peers.
 
-### 2. Case Study (Problem-Solving) Activity
+### Case Study (Problem-Solving) Activity
 
 Resources for engaging students in interdisciplinary scientific
 problem formulation and collaborative problem-solving.
 
-- **Case Study Guide:** Overview, session structure, and instructions.
-- **Case Study Slides:** Slides used to facilitate classroom sessions.
-- **Requirements Table:** Template for identifying project requirements.
-- **Statement of Work:** Template for defining project scope and deliverables.
-- **Presentation Template:** Template for students to present their proposed solutions.
+- **[Case Study Guide](case-study/case-study-dynamics.pdf):**
+  Overview of the activity, session structure, and instructions.
+
+- **Case Study Slides:**
+  Slides used to facilitate the classroom sessions.
+  [View PDF](case-study/case-study-slides.pdf) |
+  [Download PPTX](case-study/case-study-slides.pptx)
+
+- **[Requirements Table](case-study/requirements-table.xlsx):**
+  Template for identifying project requirements.
+
+- **[Statement of Work](case-study/statement-of-work-signoff.docx):**
+  Template for defining project scope and deliverables.
+
+- **Presentation Template:**
+  Template for students to present their proposed solutions.
+  [View PDF](case-study/presentation-template.pdf) |
+  [Download PPTX](case-study/presentation-template.pptx)
+
 
 ## Paper
 
