@@ -63,9 +63,5 @@ If you find our paper or teaching materials useful in your work, please consider
 ```
 ## Acknowledgments
 
-This work was supported by the University of Michigan's Enhancing Engineering Education (E3) Grants Program and faculty start-up funds.
-
-We thank Rhonda Holton from the Center for Research on Learning and Teaching in Engineering (CRLT-Engin) for her pedagogical guidance.
-
-We also thank Gail Hohner, Director of the Multidisciplinary Design Program (MDP), and Jennifer Carlson, Assistant Director of MDP, for developing the original Requirements Table and Statement of Work resources and allowing us to adapt and share these materials.
+This work was supported by the University of Michigan’s Michigan Engineering Enhancing Engineering Education (E3) Grant and faculty start-up funds. We thank Rhonda Holton from the Center for Research on Learning and Teaching in Engineering (CRLT-Engin) for her pedagogical guidance. We also thank Gail Hohner, Director of the Multidisciplinary Design Program (MDP), and Jennifer Carlson, Assistant Director of MDP, for allowing us to adapt their Requirements Table and Statement of Work resources.
 
